@@ -51,7 +51,6 @@ void _hscore();
                    ~~~~VARIABLES~~~~
 ****************************************************/
 
-
 int mode ;
 int Score;
 int fake_target_e=0;
